@@ -5,6 +5,6 @@
 ## Fundamental Resources & Tutorials
 
 ### Tutorial
-* Overview
-* Hardware
-* Web MIDI API
+* [Overview](./overview.md)
+* [Hardware](./hardware.md)
+* [Web MIDI API](./web-midi-api.md)

@@ -4,14 +4,14 @@
 FREE YOUR MIND
 
 ## Discrete Performance Instrumentation (ex. hardware)
-* Keyboard/Traditional
-* Commercial Controllers
-* Joystick 
-* Ribbon
-* Theremin-type (Variable Capacitance Interface)
-* Interference (Cameras, IR Cameras (kinect, leap motion), laser)
-* EEG (BrainWave Interface)
+* [Keyboard/Traditional](./instrumentation/traditional.md
+* [Commercial Controllers](./instrumentation/controllers.md)
+* [Joystick](./instrumentation/joystick.md)
+* [Ribbon](./instrumentation/ribbon.md)
+* [Theremin-type (Variable Capacitance Interface)](./instrumentation/theremin-type.md)
+* [Interference (Cameras, IR Cameras (kinect, leap motion), laser)](./instrumentation/interference.md)
+* [EEG (BrainWave Interface)](./instrumentation/eeg.md)
 
 ## Performance Control Methods (ex. software)
-* MIDI Mapping Applications (Ableton)
-* Algorithmic (Loop Driven)
+* [MIDI Mapping Applications (Ableton)](./methods/MIDI-mapping.md)
+* [Algorithmic (Loop Driven)](./methods/algorithmic.md)
