@@ -4,7 +4,7 @@
 FREE YOUR MIND
 
 ## Discrete Performance Instrumentation (ex. hardware)
-* [Keyboard/Traditional](./instrumentation/traditional.md
+* [Keyboard/Traditional](./instrumentation/traditional.md)
 * [Commercial Controllers](./instrumentation/controllers.md)
 * [Joystick](./instrumentation/joystick.md)
 * [Ribbon](./instrumentation/ribbon.md)
