@@ -29,7 +29,7 @@ This is living documentation from the [WebSound](https://github.com/websound/Web
 * Studio Recording: 
   * [Modern Recording Techniques](https://www.routledge.com/Modern-Recording-Techniques-8th-Edition/Huber-Runstein/p/book/9780240821573)
 * Out of Print:
-  * [Musical Applications of Microprocessors](https://books.google.com/books?id=vH19ngEACAAJ&dq=musical+applications+of+microprocessors)
+  * [Musical Applications of Microprocessors](https://openlibrary.org/books/OL2543132M/Musical_applications_of_microprocessors)
   * [The Science of Musical Sound](https://books.google.com/books?id=QvmCQgAACAAJ&dq=the+science+of+musical+sound)  
 
 
